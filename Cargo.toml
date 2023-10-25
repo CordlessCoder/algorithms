@@ -2,5 +2,5 @@
 resolver = "2"
 
 members = [
-    "dmopc_13_1_p4-afk"
+    "dmoj/*"
 ]
